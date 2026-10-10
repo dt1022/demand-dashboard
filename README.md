@@ -2,7 +2,7 @@
 
 Forecasts weekly demand per product and tells a supply planner when and how much to reorder.
 
-![Dashboard screenshot](docs/screenshot.png)
+
 
 **Live demo:** _coming soon_
 
@@ -87,10 +87,3 @@ Kaggle: Store Item Demand Forecasting Challenge.
 ![Dashboard overview](docs/inventory.png)
 ![Dashboard overview](docs/forecast.png)
 ![Dashboard overview](docs/reports.png)
-
-<p align="center">
-  <img src="docs/overview.png" width="48%" />
-  <img src="docs/forecast.png" width="48%" />
-  <img src="docs/inventory.png" width="48%" />
-  <img src="docs/reports.png" width="48%" />
-</p>
